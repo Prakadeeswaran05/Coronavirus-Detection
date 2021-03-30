@@ -1,1 +1,1 @@
-# Coronavirus-prediction-pytorch
+# Coronavirus-Detection
